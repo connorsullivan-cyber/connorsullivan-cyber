@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Vulnearability Managament Lab</b>
+- [Vulnerability Management Lab](https://github.com/connorsullivan-cyber/VulnerabilityManagementLab)
 
 <h2> Certifications:</h2>
 - <b>Google Cybersecurity Professional</b> <br>
