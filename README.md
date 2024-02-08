@@ -6,8 +6,9 @@
 
 <h2> Certifications:</h2>
 - <b>Google Cybersecurity Professional</b> <br>
-- <b>CompTIA Security + (In progress)</b>
-
+- <b>CompTIA Security +</b><br>
+- <b>Tryhackme:</b><br>
+    -SoC Analyst 1
 <h2>About me:</h2>
 
 
