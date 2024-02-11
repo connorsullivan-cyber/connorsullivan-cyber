@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Vulnerability Management Lab](https://github.com/connorsullivan-cyber/VulnerabilityManagementLab)
+- [Deploying a Honeypot Lab](https://github.com/connorsullivan-cyber/honeypot/)
 
 <h2> Certifications:</h2>
 <li><b>Google Cybersecurity Professional</b></li>
