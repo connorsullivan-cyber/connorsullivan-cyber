@@ -9,9 +9,9 @@
 <li><b>CompTIA Security +</b></li> 
 <li> <b>Tryhackme:</b></li>
 <ul>
-  <li> SOC Analyst 1: Completed rooms with training on Wireshark, Snort, Zeek, Splunk, Redline Wazuh, Autopsy, KAPE, Velociraptor </li>
-  <li> Jr. Penetration Tester: Completed rooms covering the technical skills and programs needed to become a jr. pen tester including Burp Suite, Nmap, Metasploit, vulnerability research, IDOR, XSS, SQLI, and much more.   </li>
-  <li> Security Engineer </li>
+  <li> <b>SOC Analyst 1:</b> Completed rooms covering the responsibilities of a SOC Analyst with training on Wireshark, Snort, Zeek, Splunk, Redline Wazuh, Autopsy, KAPE, Velociraptor and much more.</li>
+  <li> <b>Jr. Penetration Tester:</b> Completed rooms covering the technical skills and programs needed to become a junior penetration tester including Burp Suite, Nmap, Metasploit, vulnerability research, IDOR, XSS, SQLI, and much more.   </li>
+  <li> <b>Security Engineer:</b> Completed rooms covering security elements such as system hardening, network architecture and security protocols, virtualization and containers, auditing and monitoring, crisis management and much more.  </li>
 </ul>
     
 <h2>About me:</h2>
