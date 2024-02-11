@@ -5,10 +5,15 @@
 - [Vulnerability Management Lab](https://github.com/connorsullivan-cyber/VulnerabilityManagementLab)
 
 <h2> Certifications:</h2>
-- <b>Google Cybersecurity Professional</b> <br>
-- <b>CompTIA Security +</b><br>
-- <b>Tryhackme:</b><br>
-    -SoC Analyst 1
+<li><b>Google Cybersecurity Professional</b></li>
+<li><b>CompTIA Security +</b></li> 
+<li> <b>Tryhackme:</b></li>
+<ul>
+  <li> SOC Analyst 1: Completed rooms with training on Wireshark, Snort, Zeek, Splunk, Redline Wazuh, Autopsy, KAPE, Velociraptor </li>
+  <li> Jr. Penetration Tester: Completed rooms covering the technical skills and programs needed to become a jr. pen tester including Burp Suite, Nmap, Metasploit, vulnerability research, IDOR, XSS, SQLI, and much more.   </li>
+  <li> Security Engineer </li>
+</ul>
+    
 <h2>About me:</h2>
 
 
