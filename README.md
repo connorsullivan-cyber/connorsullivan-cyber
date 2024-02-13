@@ -4,6 +4,7 @@
 
 - [Vulnerability Management Lab](https://github.com/connorsullivan-cyber/VulnerabilityManagementLab)
 - [Deploying a Honeypot Lab](https://github.com/connorsullivan-cyber/honeypot/)
+- [Building a SIEM using Elastic](https://github.com/connorsullivan-cyber/building_a_siem/)
 
 <h2> Certifications:</h2>
 <li><b>Google Cybersecurity Professional</b></li>
