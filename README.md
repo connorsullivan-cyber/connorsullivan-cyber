@@ -1,10 +1,11 @@
 <h1>Hello, I'm Connor! <br/>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - [Vulnerability Management Lab](https://github.com/connorsullivan-cyber/VulnerabilityManagementLab)
 - [Deploying a Honeypot Lab](https://github.com/connorsullivan-cyber/honeypot/)
 - [Building a SIEM using Elastic](https://github.com/connorsullivan-cyber/building_a_siem/)
+- [Tryhackme Capture the Flag](https://github.com/connorsullivan-cyber/simple-ctf/)
 
 <h2> Certifications:</h2>
 <li><b>Google Cybersecurity Professional</b></li>
@@ -18,17 +19,4 @@
     
 <h2>About me:</h2>
 
-
-
-
-
-
-- I am a eight year film industry professional working on a career change into cybersecurity!
-- I'm currently working on my CompTIA Security + certification while continuing to further my knowledge on the cyber world.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am an eight year film industry professional working on a career change into cybersecurity! I completed my Google Cybersecurity Professional certificate a couple months ago and I just completed my CompTIA Security + certification! I am a dedicated worker, quick learner, and love to learn.
